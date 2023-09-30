@@ -8,7 +8,7 @@ const poke_container = document.getElementById("poke_container");
 const url = "https://pokeapi.co/api/v2/pokemon";
 
 // Número total de pokemones a obtener
-const pokemons_number = 150;
+const pokemons_number = 95;
 
 // Elemento HTML para búsqueda de un Pokémon
 const search = document.getElementById("search");
