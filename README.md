@@ -35,7 +35,7 @@ Check out the live demo of the Pokedex: [Pokedex Demo](https://pokedex-rt.onrend
 
 To set up this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/Pokedex.git`
+1. Clone the repository: `git clone https://github.com/Ricwolf19/Pokedex.git`
 2. Open the project in your favorite code editor.
 3. Open `index.html` in a web browser.
 
